@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home_page</title>
+</head>
+<body>
+    <header>
+     <p><i><big>This is my home page<big></i></p>
+    </header>
+    <main>
+        <div>
+        <section>College : RIT | Islampur | AIML (B.tech) </section>
+        <section>Net worth : Growing | Funded Trader | Blueberry </section>
+         <a href="https://dashboard.blueberryfunded.com/dashboard/832421"target="_main">
+            <!-- <br>
+            <p>click on photo to view my account</p>
+            <br> -->
+            <img src="blueberry.png" alt="Blueberry image" width="150px">
+         </a>
+         <hr>
+        <aside> This is an add SEO will not read it or GOOGLE will not read it!</aside>
+         <hr>
+         
+    </main>
+    <a href="/experience.html">Go to experience</a>
+    <br>
+    <a href="/hobby.html">Go to hobbies section</a>
+    <hr>
+
+   <h1S>
+  <pre><font face="Times New Roman" size="6">  Skills      |    Hobbies     </font></pre>
+</h1>
+
+<table border="0" cellspacing="5" cellpadding="5">
+  <tr>
+    <td><font face="Times New Roman" size="6">Trading</font></td>
+    <td><font face="Times New Roman" size="6">Swimming</font></td>
+  </tr>
+  <tr>
+    <td><font face="Times New Roman" size="6">Coding</font></td>
+    <td><font face="Times New Roman" size="6">Cricket</font></td>
+  </tr>
+  <tr>
+    <td><font face="Times New Roman" size="6">Debugging</font></td>
+    <td><font face="Times New Roman" size="6">Reading</font></td>
+  </tr>
+  <tr>
+    <td><font face="Times New Roman" size="6">Trading</font></td>
+    <td><font face="Times New Roman" size="6">Swimming</font></td>
+  </tr>
+</table>
+
+<ol>
+    <font size="6">
+    Fruits
+    <li>Apple</li>
+       <ul>
+        <li>color : red</li>
+        <li>season : winter</li>
+       </ul>
+    <li>Mango</li>
+    <ul>
+        <li>color : yellow</li>
+        <li>season : summer</li>
+    </ul>
+    <li>Chikoo</li>
+    <ul>
+        <li>color : brown</li>
+        <li>season : any season</li>
+    </ul>
+    </font>
+</ol>
+
+<table>
+    <caption>Student Data</caption>
+    <tr>
+        <th colspan="2">
+            INFORMATION
+        </th>
+        <!-- <th>
+            Roll no
+        </th> -->
+    </tr>
+     <tr>
+        <td>
+            Mahesh Mane
+        </td>
+        <td>
+            2317043
+        </td>
+    </tr>
+</table>
+
+    
+
+
+    
+    </div>
+    </main>
+    <footer>
+    <h1><i>Let's start some next level things!!!</i></h1>
+    <img src="https://imgs.search.brave.com/VpH04fvwST7ZOpQZLMw0gYjnHCOf6TfEGm3DYb5Sqjg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oeWNt/LnMzLmFtYXpvbmF3/cy5jb20vcHVibGlj/L2ZpbGVzL2FydGlj/bGVzL2hvd190b190/cmFkZS53ZWJw"alt:"trading image">
+    <form action="/action.php">
+        <input type="text" placeholder="First Name">
+        <input type="text" placeholder="Middle Name">
+        <input type="text" placeholder="Last Name">
+        <br>
+        <input type="password" placeholder="password">
+        <br>
+        <label for="101">
+        <input type="radio" value="class XI" name="class" id="101">classXI
+        </label>
+        <br>
+        <label for="102">
+        <input type="radio" value="class XII" name="class" id="102">classXII
+        </label>
+    </form>
+    </footer>
+</body>
+</html>
